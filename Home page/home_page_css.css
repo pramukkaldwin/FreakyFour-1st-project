@@ -1,0 +1,11 @@
+/*external stylesheet for home page*/
+
+/*background image*/
+body {
+   background-image: url("books-magazines-building-school.jpg"); 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-repeat:no-repeat;
+  background-size: cover;
+}
